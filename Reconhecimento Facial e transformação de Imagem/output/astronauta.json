@@ -1,0 +1,26 @@
+{
+  "profissão": "Astronauta",
+  "especialidades": [
+    "Exploração espacial",
+    "Ciência espacial",
+    "Engenharia espacial",
+    "Operações em voo espacial",
+    "Treinamento de astronautas"
+  ],
+  "atribuições": [
+    "Realizar caminhadas espaciais para realizar reparos e manutenção em naves espaciais",
+    "Conduzir experimentos científicos em órbita terrestre ou em outros planetas",
+    "Operar e pilotar naves espaciais e módulos",
+    "Monitorar sistemas de nave espacial e realizar diagnósticos de falhas"
+  ],
+
+  "habilidades": [
+    "Excelentes habilidades físicas e de saúde",
+    "Capacidade de trabalhar em equipe e colaborar com outros",
+    "Excelentes habilidades de comunicação e liderança",
+    "Forte adaptabilidade e capacidade de lidar com o estresse",
+    "Motivação e paixão pela exploração espacial",
+  ]
+}
+
+
